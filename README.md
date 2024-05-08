@@ -13,7 +13,7 @@
 
 # 👨🏻‍💻 Descrição do projeto 
 
-- Freelance onde foi desenvolvido um sistema para cadastro dos galpões e um site para divulgação.
+- Freelance onde foi desenvolvido um sistema <a href="https://github.com/Leorrc/sistema-distrito-dos-galpoes">Conhecer o projeto</a>, para cadastro dos galpões e um site para divulgação <a href="https://distritodosgalpoes.com.br/">aqui</a>.
 
 <br />
 
