@@ -3,6 +3,11 @@
 <img alt="preview-1" src="https://raw.githubusercontent.com/Leorrc/website-distrito-dos-galpoes/master/images/preview-1.png">
 
 <img alt="preview-2" src="https://raw.githubusercontent.com/Leorrc/website-distrito-dos-galpoes/master/images/preview-2.png">
+
+<img alt="preview-3" src="https://raw.githubusercontent.com/Leorrc/website-distrito-dos-galpoes/master/images/preview-3.png">
+
+<img alt="preview-4" src="https://raw.githubusercontent.com/Leorrc/website-distrito-dos-galpoes/master/images/preview-4.png">
+
 </div>
 
 <div align="center"><strong>Projeto feito com Next.js 14</strong></div>
